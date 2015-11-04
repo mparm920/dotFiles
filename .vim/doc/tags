@@ -1,0 +1,7 @@
+:Npm	npm.txt	/*:Npm*
+g:npm_background	npm.txt	/*g:npm_background*
+g:npm_custom_commands	npm.txt	/*g:npm_custom_commands*
+g:npm_load_commands	npm.txt	/*g:npm_load_commands*
+npm-license	npm.txt	/*npm-license*
+npm-settings	npm.txt	/*npm-settings*
+npm.txt	npm.txt	/*npm.txt*
