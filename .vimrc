@@ -1,4 +1,5 @@
 call pathogen#infect()
+:filetype plugin indent on
 :set incsearch
 :set ignorecase
 :set smartcase
@@ -17,6 +18,5 @@ map <c-l> <c-w><c-L>
 
 let mapleader = ":"
 cmap ne NERDTree
-:filetype plugin on
 hi CSVColumnEven term=bold ctermbg=4 guibg=DarkBlue
 hi CSVColumnOdd term=bold ctermbg=5 guibg=DarkMagenta
