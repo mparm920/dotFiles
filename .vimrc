@@ -18,6 +18,8 @@ map <c-j> <c-w><c-j>
 map <c-k> <c-w><c-k>
 map <c-l> <c-w><c-L>
 
+nnoremap <F3> :NumbersToggle<CR>
+nnoremap <F4> :NumbersOff<CR>
 let mapleader = ":"
 cmap ne NERDTree
 hi CSVColumnEven term=bold ctermbg=4 guibg=DarkBlue
