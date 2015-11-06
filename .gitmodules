@@ -9,9 +9,6 @@
 [submodule ".vim/bundle/vim-airline"]
 	path = .vim/bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
-[submodule ".vim/bundle/indentLine"]
-	path = .vim/bundle/indentLine
-	url = https://github.com/vim-scripts/indentLine.vim.git
 [submodule ".vim/bundle/rust.vim"]
 	path = .vim/bundle/rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
@@ -21,3 +18,6 @@
 [submodule ".vim/autoload/pathogen.vim"]
 	path = .vim/autoload/pathogen.vim
 	url = https://github.com/tpope/vim-pathogen.git
+[submodule ".vim/bundle/vim-flagship"]
+	path = .vim/bundle/vim-flagship
+	url = https://github.com/tpope/vim-flagship.git
