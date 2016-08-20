@@ -1,4 +1,4 @@
-call pathogen#infect()
+execute pathogen#infect('bundle/{}', '~/.config/nvim/bundle/{}')
 :filetype plugin indent on
 :set incsearch
 :set ignorecase
