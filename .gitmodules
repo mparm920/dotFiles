@@ -34,7 +34,7 @@
 	path = .vim/bundle/numbers.vim
 	url = https://github.com/myusuf3/numbers.vim.git
 [submodule "vim-coffee-script"]
-	path = vim-coffee-script
+	path = .vim/bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
 [submodule ".vim/bundle/vim-coffee-script"]
 	path = .vim/bundle/vim-coffee-script
@@ -45,3 +45,6 @@
 [submodule ".vim/bundle/vim-stylus"]
 	path = .vim/bundle/vim-stylus
 	url = https://github.com/wavded/vim-stylus.git
+[submodule "vim-scriptease"]
+	path = .vim/bundle/vim-scriptease
+	url = https://github.com/tpope/vim-scriptease.git
