@@ -10,7 +10,7 @@ set laststatus=2
 set showtabline=2
 set guioptions-=e
 
-"elzr/vim-json 
+"elzr/vim-json
 let g:vim_json_warnings=0
 
 map <c-h> <c-w><c-h>
@@ -24,3 +24,5 @@ let mapleader = ":"
 cmap ne NERDTree
 hi CSVColumnEven term=bold ctermbg=4 guibg=DarkBlue
 hi CSVColumnOdd term=bold ctermbg=5 guibg=DarkMagenta
+
+let g:airline_theme='molokai'
