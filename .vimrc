@@ -3,6 +3,9 @@ execute pathogen#infect('bundle/{}', '~/.config/nvim/bundle/{}')
 :set incsearch
 :set ignorecase
 :set smartcase
+:set tabstop=4
+:set shiftwidth=4
+:set expandtab
 :set nu
 syntax on
 
